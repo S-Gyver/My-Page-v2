@@ -45,7 +45,7 @@ table {
 
 .TTTT th,
 .TTTT td {
-  border: none;              /* ❗ ลบเส้นด้านใน */
+  border: none;
   padding: 8px 15px;
 }
 
